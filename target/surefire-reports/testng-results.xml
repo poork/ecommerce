@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ECommerceSuite" duration-ms="91562" started-at="2021-06-25T05:11:01Z" finished-at="2021-06-25T05:12:33Z">
+    <groups>
+    </groups>
+    <test name="ECommerceSuiteTCs" duration-ms="91562" started-at="2021-06-25T05:11:01Z" finished-at="2021-06-25T05:12:33Z">
+      <class name="com.ecommerce.testCases.TC_searchcustomer_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecommerce.testCases.TC_searchcustomer_001@59a6e353]" name="setup" is-config="true" duration-ms="1478" started-at="2021-06-25T05:11:44Z" finished-at="2021-06-25T05:11:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchcustomer()[pri:0, instance:com.ecommerce.testCases.TC_searchcustomer_001@59a6e353]" name="searchcustomer" duration-ms="17642" started-at="2021-06-25T05:11:45Z" finished-at="2021-06-25T05:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchcustomer -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ecommerce.testCases.TC_searchcustomer_001@59a6e353]" name="exit" is-config="true" duration-ms="76" started-at="2021-06-25T05:12:03Z" finished-at="2021-06-25T05:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ecommerce.testCases.TC_searchcustomer_001 -->
+      <class name="com.ecommerce.testCases.TC_AddCustomer_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecommerce.testCases.TC_AddCustomer_002@3d24753a]" name="setup" is-config="true" duration-ms="1268" started-at="2021-06-25T05:11:17Z" finished-at="2021-06-25T05:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addCustemer()[pri:0, instance:com.ecommerce.testCases.TC_AddCustomer_002@3d24753a]" name="addCustemer" duration-ms="25327" started-at="2021-06-25T05:11:18Z" finished-at="2021-06-25T05:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustemer -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ecommerce.testCases.TC_AddCustomer_002@3d24753a]" name="exit" is-config="true" duration-ms="59" started-at="2021-06-25T05:11:44Z" finished-at="2021-06-25T05:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ecommerce.testCases.TC_AddCustomer_002 -->
+      <class name="com.ecommerce.testCases.TC_Logintest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecommerce.testCases.TC_Logintest_001@7e0ea639]" name="setup" is-config="true" duration-ms="2708" started-at="2021-06-25T05:11:01Z" finished-at="2021-06-25T05:11:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.ecommerce.testCases.TC_Logintest_001@7e0ea639]" name="Logintest" duration-ms="12799" started-at="2021-06-25T05:11:04Z" finished-at="2021-06-25T05:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ecommerce.testCases.TC_Logintest_001@7e0ea639]" name="exit" is-config="true" duration-ms="77" started-at="2021-06-25T05:11:17Z" finished-at="2021-06-25T05:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ecommerce.testCases.TC_Logintest_001 -->
+      <class name="com.ecommerce.testCases.TC_Deletecustomer_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@7a0ac6e3]" name="setup" is-config="true" duration-ms="1298" started-at="2021-06-25T05:12:03Z" finished-at="2021-06-25T05:12:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@7a0ac6e3]" name="deleteCustomer" duration-ms="28503" started-at="2021-06-25T05:12:04Z" finished-at="2021-06-25T05:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@7a0ac6e3]" name="exit" is-config="true" duration-ms="67" started-at="2021-06-25T05:12:33Z" finished-at="2021-06-25T05:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ecommerce.testCases.TC_Deletecustomer_004 -->
+    </test> <!-- ECommerceSuiteTCs -->
+  </suite> <!-- ECommerceSuite -->
+</testng-results>

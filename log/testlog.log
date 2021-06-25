@@ -556,3 +556,25 @@
 2021-06-25 10:28:45,989 - ecommerce -INFO - clicked login 
 2021-06-25 10:28:46,040 - ecommerce -INFO - title check 
 2021-06-25 10:28:48,345 - ecommerce -INFO - test case end 
+2021-06-25 10:41:09,562 - ecommerce -INFO - test case start 
+2021-06-25 10:41:14,248 - ecommerce -INFO - clicked login 
+2021-06-25 10:41:14,403 - ecommerce -INFO - title check 
+2021-06-25 10:41:17,502 - ecommerce -INFO - test case end 
+2021-06-25 10:41:25,709 - ecommerce -INFO - opening URL
+2021-06-25 10:41:30,659 - ecommerce -INFO - Logged IN 
+2021-06-25 10:41:30,660 - ecommerce -INFO - object created
+2021-06-25 10:41:43,559 - ecommerce -INFO - clicked save 
+2021-06-25 10:41:44,187 - ecommerce -INFO - User is added
+2021-06-25 10:41:45,726 - ecommerce -INFO - Opening URL
+2021-06-25 10:41:55,525 - ecommerce -INFO - Logged in  
+2021-06-25 10:41:57,624 - ecommerce -INFO - searching starts
+2021-06-25 10:41:58,270 - ecommerce -INFO - clicked search button
+2021-06-25 10:42:03,366 - ecommerce -INFO - record is present
+2021-06-25 10:42:04,742 - ecommerce -INFO - opening url
+2021-06-25 10:42:09,726 - ecommerce -INFO - maximizing window
+2021-06-25 10:42:14,049 - ecommerce -INFO - Login successful
+2021-06-25 10:42:16,028 - ecommerce -INFO - entered email
+2021-06-25 10:42:16,480 - ecommerce -INFO - searching....
+2021-06-25 10:42:21,546 - ecommerce -INFO - search is finished
+2021-06-25 10:42:31,129 - ecommerce -INFO - deleting user
+2021-06-25 10:42:33,245 - ecommerce -INFO - user is removed
