@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ECommerceSuite" duration-ms="31483" started-at="2021-06-22T16:54:39Z" finished-at="2021-06-22T16:55:11Z">
+    <groups>
+    </groups>
+    <test name="ECommerceSuiteTCs" duration-ms="31483" started-at="2021-06-22T16:54:39Z" finished-at="2021-06-22T16:55:11Z">
+      <class name="com.ecommerce.testCases.TC_Deletecustomer_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@4dfa3a9d]" name="setup" is-config="true" duration-ms="2274" started-at="2021-06-22T16:54:40Z" finished-at="2021-06-22T16:54:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@4dfa3a9d]" name="deleteCustomer" duration-ms="28930" started-at="2021-06-22T16:54:42Z" finished-at="2021-06-22T16:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.ecommerce.testCases.TC_Deletecustomer_004@4dfa3a9d]" name="exit" is-config="true" duration-ms="78" started-at="2021-06-22T16:55:11Z" finished-at="2021-06-22T16:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.ecommerce.testCases.TC_Deletecustomer_004 -->
+    </test> <!-- ECommerceSuiteTCs -->
+  </suite> <!-- ECommerceSuite -->
+</testng-results>

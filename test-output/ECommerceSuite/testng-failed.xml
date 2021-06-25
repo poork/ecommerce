@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ECommerceSuite]">
+  <listeners>
+    <listener class-name="com.ecommerce.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="ECommerceSuiteTCs(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ecommerce.testCases.TC_Deletecustomer_004">
+        <methods>
+          <include name="deleteCustomer"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.ecommerce.testCases.TC_Deletecustomer_004 -->
+    </classes>
+  </test> <!-- ECommerceSuiteTCs(failed) -->
+</suite> <!-- Failed suite [ECommerceSuite] -->

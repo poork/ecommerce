@@ -1,0 +1,12 @@
+com\ecommerce\pageObjects\Loginpage.class
+com\ecommerce\utilities\Reporting.class
+com\ecommerce\testCases\TC_Logintest_001.class
+com\ecommerce\pageObjects\Searchcustomer.class
+com\ecommerce\testCases\TC_AddCustomer_002.class
+com\ecommerce\testCases\TC_Deletecustomer_004.class
+com\ecommerce\pageObjects\addcustomer.class
+com\ecommerce\utilities\Listener.class
+com\ecommerce\utilities\ReadConfig.class
+com\ecommerce\testCases\TC_searchcustomer_001.class
+com\ecommerce\testCases\baseClass.class
+com\ecommerce\pageObjects\Deletecustomer.class

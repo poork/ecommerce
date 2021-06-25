@@ -1,0 +1,558 @@
+2021-06-17 22:07:50,555 - ecommerce -INFO - test case start 
+2021-06-17 22:07:50,978 - ecommerce -INFO - clicked login 
+2021-06-17 22:12:25,142 - ecommerce -INFO - test case start 
+2021-06-17 22:12:25,504 - ecommerce -INFO - clicked login 
+2021-06-17 22:13:46,583 - ecommerce -INFO - test case start 
+2021-06-17 22:13:46,952 - ecommerce -INFO - clicked login 
+2021-06-17 22:14:52,138 - ecommerce -INFO - test case start 
+2021-06-17 22:14:52,586 - ecommerce -INFO - clicked login 
+2021-06-17 22:19:54,812 - ecommerce -INFO - test case start 
+2021-06-17 22:19:55,267 - ecommerce -INFO - clicked login 
+2021-06-17 22:23:03,999 - ecommerce -INFO - test case start 
+2021-06-17 22:23:04,375 - ecommerce -INFO - clicked login 
+2021-06-17 22:27:33,800 - ecommerce -INFO - test case start 
+2021-06-17 22:27:39,269 - ecommerce -INFO - clicked login 
+2021-06-17 22:28:42,855 - ecommerce -INFO - test case start 
+2021-06-17 22:28:47,157 - ecommerce -INFO - clicked login 
+2021-06-17 22:32:36,150 - ecommerce -INFO - test case start 
+2021-06-17 22:32:42,928 - ecommerce -INFO - clicked login 
+2021-06-17 22:32:42,938 - ecommerce -INFO - title check 
+2021-06-17 22:32:44,373 - ecommerce -INFO - test case end 
+2021-06-18 16:25:29,208 - ecommerce -INFO - test case start 
+2021-06-18 16:25:35,697 - ecommerce -INFO - clicked login 
+2021-06-18 16:25:35,706 - ecommerce -INFO - title check 
+2021-06-18 16:25:37,363 - ecommerce -INFO - test case end 
+2021-06-18 16:42:26,786 - ecommerce -INFO - test case start 
+2021-06-18 16:42:34,730 - ecommerce -INFO - clicked login 
+2021-06-18 16:42:34,739 - ecommerce -INFO - title check 
+2021-06-18 16:42:37,037 - ecommerce -INFO - test case end 
+2021-06-19 11:35:42,304 - ecommerce -INFO - test case start 
+2021-06-19 11:35:51,217 - ecommerce -INFO - clicked login 
+2021-06-19 11:35:51,225 - ecommerce -INFO - title check 
+2021-06-19 11:35:53,559 - ecommerce -INFO - test case end 
+2021-06-19 17:58:35,987 - ecommerce -INFO - test case start 
+2021-06-19 17:58:45,805 - ecommerce -INFO - clicked login 
+2021-06-19 18:04:29,129 - ecommerce -INFO - test case start 
+2021-06-19 18:04:36,768 - ecommerce -INFO - clicked login 
+2021-06-19 18:05:01,222 - ecommerce -INFO - test case start 
+2021-06-19 18:05:07,177 - ecommerce -INFO - clicked login 
+2021-06-19 18:07:44,632 - ecommerce -INFO - test case start 
+2021-06-19 18:07:51,675 - ecommerce -INFO - clicked login 
+2021-06-19 18:11:04,870 - ecommerce -INFO - test case start 
+2021-06-19 18:11:12,472 - ecommerce -INFO - clicked login 
+2021-06-19 18:22:08,261 - ecommerce -INFO - test case start 
+2021-06-19 18:22:17,292 - ecommerce -INFO - clicked login 
+2021-06-19 18:25:55,725 - ecommerce -INFO - test case start 
+2021-06-19 18:26:03,389 - ecommerce -INFO - clicked login 
+2021-06-19 18:32:33,284 - ecommerce -INFO - test case start 
+2021-06-19 18:32:39,924 - ecommerce -INFO - clicked login 
+2021-06-19 21:33:48,144 - ecommerce -INFO - test case start 
+2021-06-19 21:33:55,498 - ecommerce -INFO - clicked login 
+2021-06-19 21:34:25,690 - ecommerce -INFO - test case start 
+2021-06-19 21:34:28,218 - ecommerce -INFO - clicked login 
+2021-06-19 21:35:31,130 - ecommerce -INFO - test case start 
+2021-06-19 21:35:35,324 - ecommerce -INFO - clicked login 
+2021-06-19 21:35:35,459 - ecommerce -INFO - title check 
+2021-06-19 21:35:37,285 - ecommerce -INFO - test case end 
+2021-06-19 21:35:48,103 - ecommerce -INFO - test case start 
+2021-06-19 21:35:51,448 - ecommerce -INFO - clicked login 
+2021-06-19 21:35:51,452 - ecommerce -INFO - title check 
+2021-06-19 21:35:52,236 - ecommerce -INFO - test case end 
+2021-06-19 21:38:23,829 - ecommerce -INFO - test case start 
+2021-06-19 21:38:30,045 - ecommerce -INFO - clicked login 
+2021-06-19 21:38:30,270 - ecommerce -INFO - title check 
+2021-06-19 21:38:32,088 - ecommerce -INFO - test case end 
+2021-06-19 21:38:44,572 - ecommerce -INFO - test case start 
+2021-06-19 21:38:47,144 - ecommerce -INFO - clicked login 
+2021-06-19 21:38:47,148 - ecommerce -INFO - title check 
+2021-06-19 21:38:47,942 - ecommerce -INFO - test case end 
+2021-06-19 21:39:03,494 - ecommerce -INFO - test case start 
+2021-06-19 21:41:12,499 - ecommerce -INFO - clicked login 
+2021-06-19 21:41:12,515 - ecommerce -INFO - title check 
+2021-06-19 21:45:07,375 - ecommerce -INFO - test case start 
+2021-06-19 21:45:11,921 - ecommerce -INFO - clicked login 
+2021-06-19 21:45:11,934 - ecommerce -INFO - title check 
+2021-06-19 21:45:13,479 - ecommerce -INFO - test case end 
+2021-06-19 21:45:25,943 - ecommerce -INFO - test case start 
+2021-06-19 21:45:29,330 - ecommerce -INFO - clicked login 
+2021-06-19 21:45:29,334 - ecommerce -INFO - title check 
+2021-06-19 21:45:30,098 - ecommerce -INFO - test case end 
+2021-06-19 21:45:37,622 - ecommerce -INFO - test case start 
+2021-06-19 21:47:45,189 - ecommerce -INFO - clicked login 
+2021-06-19 21:47:45,205 - ecommerce -INFO - title check 
+2021-06-19 21:49:17,234 - ecommerce -INFO - test case start 
+2021-06-19 21:49:23,200 - ecommerce -INFO - clicked login 
+2021-06-19 21:49:23,208 - ecommerce -INFO - title check 
+2021-06-19 21:49:24,948 - ecommerce -INFO - test case end 
+2021-06-19 21:49:37,495 - ecommerce -INFO - test case start 
+2021-06-19 21:49:40,368 - ecommerce -INFO - clicked login 
+2021-06-19 21:49:40,372 - ecommerce -INFO - title check 
+2021-06-19 21:49:41,131 - ecommerce -INFO - test case end 
+2021-06-19 21:49:48,024 - ecommerce -INFO - test case start 
+2021-06-19 22:26:04,653 - ecommerce -INFO - test case start 
+2021-06-19 22:26:11,001 - ecommerce -INFO - clicked login 
+2021-06-19 22:26:11,137 - ecommerce -INFO - title check 
+2021-06-19 22:26:13,485 - ecommerce -INFO - test case end 
+2021-06-19 22:26:25,888 - ecommerce -INFO - test case start 
+2021-06-19 22:26:28,567 - ecommerce -INFO - clicked login 
+2021-06-19 22:26:28,570 - ecommerce -INFO - title check 
+2021-06-19 22:26:29,324 - ecommerce -INFO - test case end 
+2021-06-19 22:31:02,146 - ecommerce -INFO - test case start 
+2021-06-19 22:31:07,365 - ecommerce -INFO - clicked login 
+2021-06-19 22:31:07,384 - ecommerce -INFO - title check 
+2021-06-19 22:31:09,786 - ecommerce -INFO - test case end 
+2021-06-19 22:31:20,598 - ecommerce -INFO - test case start 
+2021-06-19 22:31:24,457 - ecommerce -INFO - clicked login 
+2021-06-19 22:31:24,461 - ecommerce -INFO - title check 
+2021-06-19 22:31:25,222 - ecommerce -INFO - test case end 
+2021-06-19 23:54:11,280 - ecommerce -INFO - test case start 
+2021-06-19 23:54:15,454 - ecommerce -INFO - clicked login 
+2021-06-19 23:54:15,462 - ecommerce -INFO - title check 
+2021-06-19 23:54:17,663 - ecommerce -INFO - test case end 
+2021-06-20 10:37:10,027 - ecommerce -INFO - opening URL
+2021-06-20 10:40:22,943 - ecommerce -INFO - opening URL
+2021-06-20 10:42:46,885 - ecommerce -INFO - opening URL
+2021-06-20 10:43:40,856 - ecommerce -INFO - opening URL
+2021-06-20 10:44:20,324 - ecommerce -INFO - opening URL
+2021-06-20 10:44:56,292 - ecommerce -INFO - opening URL
+2021-06-20 10:46:37,549 - ecommerce -INFO - opening URL
+2021-06-20 10:47:29,798 - ecommerce -INFO - opening URL
+2021-06-20 10:48:43,262 - ecommerce -INFO - opening URL
+2021-06-20 10:49:34,003 - ecommerce -INFO - opening URL
+2021-06-20 10:50:25,246 - ecommerce -INFO - opening URL
+2021-06-20 10:52:28,240 - ecommerce -INFO - opening URL
+2021-06-20 10:53:15,463 - ecommerce -INFO - opening URL
+2021-06-20 10:53:59,447 - ecommerce -INFO - opening URL
+2021-06-20 10:53:59,646 - ecommerce -INFO - object created
+2021-06-20 10:57:19,890 - ecommerce -INFO - opening URL
+2021-06-20 10:57:25,111 - ecommerce -INFO - opening URL
+2021-06-20 10:57:30,091 - ecommerce -INFO - object created
+2021-06-20 11:02:34,874 - ecommerce -INFO - opening URL
+2021-06-20 11:02:39,434 - ecommerce -INFO - opening URL
+2021-06-20 11:02:43,917 - ecommerce -INFO - Logged IN 
+2021-06-20 11:02:43,918 - ecommerce -INFO - object created
+2021-06-20 11:10:04,283 - ecommerce -INFO - opening URL
+2021-06-20 11:10:09,984 - ecommerce -INFO - opening URL
+2021-06-20 11:10:15,439 - ecommerce -INFO - Logged IN 
+2021-06-20 11:10:15,440 - ecommerce -INFO - object created
+2021-06-20 11:13:07,268 - ecommerce -INFO - opening URL
+2021-06-20 11:13:11,177 - ecommerce -INFO - opening URL
+2021-06-20 11:13:16,671 - ecommerce -INFO - Logged IN 
+2021-06-20 11:13:16,673 - ecommerce -INFO - object created
+2021-06-20 11:21:17,634 - ecommerce -INFO - opening URL
+2021-06-20 11:21:21,856 - ecommerce -INFO - opening URL
+2021-06-20 11:21:26,972 - ecommerce -INFO - Logged IN 
+2021-06-20 11:21:26,974 - ecommerce -INFO - object created
+2021-06-20 11:24:54,167 - ecommerce -INFO - opening URL
+2021-06-20 11:24:59,376 - ecommerce -INFO - opening URL
+2021-06-20 11:25:03,715 - ecommerce -INFO - Logged IN 
+2021-06-20 11:25:03,716 - ecommerce -INFO - object created
+2021-06-20 11:29:32,510 - ecommerce -INFO - opening URL
+2021-06-20 11:29:36,986 - ecommerce -INFO - opening URL
+2021-06-20 11:29:43,340 - ecommerce -INFO - Logged IN 
+2021-06-20 11:29:43,342 - ecommerce -INFO - object created
+2021-06-20 11:30:53,486 - ecommerce -INFO - opening URL
+2021-06-20 11:30:58,744 - ecommerce -INFO - opening URL
+2021-06-20 11:31:04,480 - ecommerce -INFO - Logged IN 
+2021-06-20 11:31:04,482 - ecommerce -INFO - object created
+2021-06-20 11:32:30,264 - ecommerce -INFO - opening URL
+2021-06-20 11:32:35,774 - ecommerce -INFO - opening URL
+2021-06-20 11:32:38,967 - ecommerce -INFO - Logged IN 
+2021-06-20 11:32:38,969 - ecommerce -INFO - object created
+2021-06-20 11:34:10,772 - ecommerce -INFO - opening URL
+2021-06-20 11:34:16,436 - ecommerce -INFO - opening URL
+2021-06-20 11:34:21,308 - ecommerce -INFO - Logged IN 
+2021-06-20 11:34:21,310 - ecommerce -INFO - object created
+2021-06-20 11:35:17,288 - ecommerce -INFO - test case start 
+2021-06-20 11:35:23,235 - ecommerce -INFO - clicked login 
+2021-06-20 11:35:23,293 - ecommerce -INFO - title check 
+2021-06-20 11:35:24,699 - ecommerce -INFO - test case end 
+2021-06-20 11:35:26,006 - ecommerce -INFO - opening URL
+2021-06-20 11:35:31,419 - ecommerce -INFO - opening URL
+2021-06-20 11:35:35,583 - ecommerce -INFO - Logged IN 
+2021-06-20 11:35:35,584 - ecommerce -INFO - object created
+2021-06-20 11:38:44,413 - ecommerce -INFO - opening URL
+2021-06-20 11:38:49,410 - ecommerce -INFO - opening URL
+2021-06-20 11:38:53,719 - ecommerce -INFO - Logged IN 
+2021-06-20 11:38:53,721 - ecommerce -INFO - object created
+2021-06-20 11:38:59,845 - ecommerce -INFO - clicked save 
+2021-06-20 11:39:57,699 - ecommerce -INFO - opening URL
+2021-06-20 11:40:02,576 - ecommerce -INFO - opening URL
+2021-06-20 11:40:08,461 - ecommerce -INFO - Logged IN 
+2021-06-20 11:40:08,462 - ecommerce -INFO - object created
+2021-06-20 11:41:15,473 - ecommerce -INFO - opening URL
+2021-06-20 11:41:19,693 - ecommerce -INFO - opening URL
+2021-06-20 11:41:25,640 - ecommerce -INFO - Logged IN 
+2021-06-20 11:41:25,641 - ecommerce -INFO - object created
+2021-06-20 11:41:31,000 - ecommerce -INFO - clicked save 
+2021-06-20 11:48:30,058 - ecommerce -INFO - test case start 
+2021-06-20 11:48:34,245 - ecommerce -INFO - clicked login 
+2021-06-20 11:48:34,254 - ecommerce -INFO - title check 
+2021-06-20 11:48:35,782 - ecommerce -INFO - test case end 
+2021-06-20 11:48:37,216 - ecommerce -INFO - opening URL
+2021-06-20 11:48:42,719 - ecommerce -INFO - opening URL
+2021-06-20 11:48:47,335 - ecommerce -INFO - Logged IN 
+2021-06-20 11:48:47,337 - ecommerce -INFO - object created
+2021-06-20 11:48:52,307 - ecommerce -INFO - clicked save 
+2021-06-20 11:51:32,403 - ecommerce -INFO - test case start 
+2021-06-20 11:51:36,686 - ecommerce -INFO - clicked login 
+2021-06-20 11:51:36,694 - ecommerce -INFO - title check 
+2021-06-20 11:51:38,345 - ecommerce -INFO - test case end 
+2021-06-20 11:51:39,622 - ecommerce -INFO - opening URL
+2021-06-20 11:51:45,620 - ecommerce -INFO - opening URL
+2021-06-20 11:51:49,783 - ecommerce -INFO - Logged IN 
+2021-06-20 11:51:49,784 - ecommerce -INFO - object created
+2021-06-20 11:51:56,188 - ecommerce -INFO - clicked save 
+2021-06-20 15:09:14,697 - ecommerce -INFO - test case start 
+2021-06-20 15:09:23,486 - ecommerce -INFO - clicked login 
+2021-06-20 15:09:23,515 - ecommerce -INFO - title check 
+2021-06-20 15:09:26,759 - ecommerce -INFO - test case end 
+2021-06-20 15:09:28,474 - ecommerce -INFO - opening URL
+2021-06-20 15:09:33,800 - ecommerce -INFO - opening URL
+2021-06-20 15:09:39,590 - ecommerce -INFO - Logged IN 
+2021-06-20 15:09:39,591 - ecommerce -INFO - object created
+2021-06-20 15:09:49,498 - ecommerce -INFO - clicked save 
+2021-06-20 15:10:31,169 - ecommerce -INFO - opening URL
+2021-06-20 15:10:36,816 - ecommerce -INFO - opening URL
+2021-06-20 15:10:42,787 - ecommerce -INFO - Logged IN 
+2021-06-20 15:10:42,788 - ecommerce -INFO - object created
+2021-06-20 15:10:49,702 - ecommerce -INFO - clicked save 
+2021-06-20 15:13:32,649 - ecommerce -INFO - opening URL
+2021-06-20 15:13:38,353 - ecommerce -INFO - Logged IN 
+2021-06-20 15:13:38,355 - ecommerce -INFO - object created
+2021-06-20 15:13:46,076 - ecommerce -INFO - clicked save 
+2021-06-20 15:14:43,974 - ecommerce -INFO - opening URL
+2021-06-20 15:14:48,904 - ecommerce -INFO - Logged IN 
+2021-06-20 15:14:48,905 - ecommerce -INFO - object created
+2021-06-20 15:14:56,769 - ecommerce -INFO - clicked save 
+2021-06-20 15:16:59,272 - ecommerce -INFO - opening URL
+2021-06-20 15:17:05,275 - ecommerce -INFO - Logged IN 
+2021-06-20 15:17:05,277 - ecommerce -INFO - object created
+2021-06-20 15:17:12,602 - ecommerce -INFO - clicked save 
+2021-06-20 15:18:43,504 - ecommerce -INFO - opening URL
+2021-06-20 15:18:51,859 - ecommerce -INFO - Logged IN 
+2021-06-20 15:18:51,860 - ecommerce -INFO - object created
+2021-06-20 15:19:02,229 - ecommerce -INFO - clicked save 
+2021-06-20 15:19:02,677 - ecommerce -INFO - capturing screenshot
+2021-06-20 15:26:24,013 - ecommerce -INFO - opening URL
+2021-06-20 15:26:29,438 - ecommerce -INFO - Logged IN 
+2021-06-20 15:26:29,439 - ecommerce -INFO - object created
+2021-06-20 15:26:35,855 - ecommerce -INFO - clicked save 
+2021-06-20 15:30:02,269 - ecommerce -INFO - opening URL
+2021-06-20 15:30:07,163 - ecommerce -INFO - Logged IN 
+2021-06-20 15:30:07,165 - ecommerce -INFO - object created
+2021-06-20 15:30:12,627 - ecommerce -INFO - clicked save 
+2021-06-20 15:55:00,644 - ecommerce -INFO - opening URL
+2021-06-20 15:55:04,797 - ecommerce -INFO - Logged IN 
+2021-06-20 15:55:04,798 - ecommerce -INFO - object created
+2021-06-20 15:55:10,947 - ecommerce -INFO - clicked save 
+2021-06-20 15:56:36,631 - ecommerce -INFO - opening URL
+2021-06-20 15:56:41,499 - ecommerce -INFO - Logged IN 
+2021-06-20 15:56:41,501 - ecommerce -INFO - object created
+2021-06-20 20:41:55,025 - ecommerce -INFO - opening URL
+2021-06-20 20:41:58,876 - ecommerce -INFO - Logged IN 
+2021-06-20 20:41:58,878 - ecommerce -INFO - object created
+2021-06-20 20:42:05,824 - ecommerce -INFO - clicked save 
+2021-06-20 20:42:06,455 - ecommerce -INFO - capturing screenshot
+2021-06-20 20:45:25,250 - ecommerce -INFO - opening URL
+2021-06-20 20:45:32,435 - ecommerce -INFO - Logged IN 
+2021-06-20 20:45:32,436 - ecommerce -INFO - object created
+2021-06-20 20:45:37,800 - ecommerce -INFO - clicked save 
+2021-06-20 20:48:05,339 - ecommerce -INFO - opening URL
+2021-06-20 20:48:11,516 - ecommerce -INFO - Logged IN 
+2021-06-20 20:48:11,517 - ecommerce -INFO - object created
+2021-06-20 20:48:17,798 - ecommerce -INFO - clicked save 
+2021-06-20 20:50:11,666 - ecommerce -INFO - opening URL
+2021-06-20 20:50:15,840 - ecommerce -INFO - Logged IN 
+2021-06-20 20:50:15,841 - ecommerce -INFO - object created
+2021-06-20 20:50:22,765 - ecommerce -INFO - clicked save 
+2021-06-20 21:30:14,358 - ecommerce -INFO - opening URL
+2021-06-20 21:30:19,145 - ecommerce -INFO - Logged IN 
+2021-06-20 21:30:19,147 - ecommerce -INFO - object created
+2021-06-20 21:30:29,657 - ecommerce -INFO - clicked save 
+2021-06-20 21:30:30,177 - ecommerce -INFO - capturing screenshot
+2021-06-20 21:47:12,681 - ecommerce -INFO - opening URL
+2021-06-20 21:47:17,427 - ecommerce -INFO - Logged IN 
+2021-06-20 21:47:17,429 - ecommerce -INFO - object created
+2021-06-20 21:47:22,924 - ecommerce -INFO - clicked save 
+2021-06-20 21:55:45,315 - ecommerce -INFO - opening URL
+2021-06-20 21:55:49,909 - ecommerce -INFO - Logged IN 
+2021-06-20 21:55:49,910 - ecommerce -INFO - object created
+2021-06-20 21:55:56,164 - ecommerce -INFO - clicked save 
+2021-06-20 21:55:56,507 - ecommerce -INFO - capturing screenshot
+2021-06-20 22:06:19,296 - ecommerce -INFO - test case start 
+2021-06-20 22:06:23,539 - ecommerce -INFO - clicked login 
+2021-06-20 22:06:23,550 - ecommerce -INFO - title check 
+2021-06-20 22:06:25,065 - ecommerce -INFO - test case end 
+2021-06-20 22:06:31,746 - ecommerce -INFO - opening URL
+2021-06-20 22:06:36,507 - ecommerce -INFO - Logged IN 
+2021-06-20 22:06:36,508 - ecommerce -INFO - object created
+2021-06-20 22:06:41,891 - ecommerce -INFO - clicked save 
+2021-06-20 22:06:41,929 - ecommerce -INFO - capturing screenshot
+2021-06-21 04:30:56,148 - ecommerce -INFO - test case start 
+2021-06-21 04:31:02,093 - ecommerce -INFO - clicked login 
+2021-06-21 04:31:02,195 - ecommerce -INFO - title check 
+2021-06-21 04:31:04,498 - ecommerce -INFO - test case end 
+2021-06-21 04:31:10,829 - ecommerce -INFO - opening URL
+2021-06-21 04:31:15,838 - ecommerce -INFO - Logged IN 
+2021-06-21 04:31:15,839 - ecommerce -INFO - object created
+2021-06-21 04:31:24,228 - ecommerce -INFO - clicked save 
+2021-06-21 04:31:25,421 - ecommerce -INFO - capturing screenshot
+2021-06-21 04:37:57,448 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:02:01,697 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:03:52,559 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:08:34,281 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:08:48,424 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:20:04,017 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:20:14,798 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:25:19,797 - ecommerce -INFO - test case start 
+2021-06-21 05:25:26,213 - ecommerce -INFO - clicked login 
+2021-06-21 05:25:26,325 - ecommerce -INFO - title check 
+2021-06-21 05:25:27,792 - ecommerce -INFO - test case end 
+2021-06-21 05:25:33,595 - ecommerce -INFO - opening URL
+2021-06-21 05:25:38,731 - ecommerce -INFO - Logged IN 
+2021-06-21 05:25:38,732 - ecommerce -INFO - object created
+2021-06-21 05:25:45,931 - ecommerce -INFO - clicked save 
+2021-06-21 05:26:00,072 - ecommerce -INFO - capturing screenshot
+2021-06-21 05:26:13,807 - ecommerce -INFO - capturing screenshot
+2021-06-21 14:33:53,930 - ecommerce -INFO - test case start 
+2021-06-21 14:34:02,362 - ecommerce -INFO - clicked login 
+2021-06-21 14:34:02,372 - ecommerce -INFO - title check 
+2021-06-21 14:34:04,724 - ecommerce -INFO - test case end 
+2021-06-21 14:34:13,221 - ecommerce -INFO - opening URL
+2021-06-21 14:34:20,120 - ecommerce -INFO - Logged IN 
+2021-06-21 14:34:20,121 - ecommerce -INFO - object created
+2021-06-21 14:34:27,795 - ecommerce -INFO - clicked save 
+2021-06-21 14:47:25,305 - ecommerce -INFO - Opening URL
+2021-06-21 14:47:34,072 - ecommerce -INFO - Logged in  
+2021-06-21 14:47:35,690 - ecommerce -INFO - searching starts
+2021-06-21 14:47:36,292 - ecommerce -INFO - clicked search button
+2021-06-21 14:48:55,739 - ecommerce -INFO - Opening URL
+2021-06-21 14:49:06,606 - ecommerce -INFO - Logged in  
+2021-06-21 14:49:08,245 - ecommerce -INFO - searching starts
+2021-06-21 14:49:08,827 - ecommerce -INFO - clicked search button
+2021-06-21 15:08:22,424 - ecommerce -INFO - Opening URL
+2021-06-21 15:08:32,910 - ecommerce -INFO - Logged in  
+2021-06-21 15:08:34,440 - ecommerce -INFO - searching starts
+2021-06-21 15:08:34,918 - ecommerce -INFO - clicked search button
+2021-06-21 15:17:07,618 - ecommerce -INFO - Opening URL
+2021-06-21 15:17:19,416 - ecommerce -INFO - Logged in  
+2021-06-21 15:17:20,835 - ecommerce -INFO - searching starts
+2021-06-21 15:17:21,256 - ecommerce -INFO - clicked search button
+2021-06-21 15:38:46,607 - ecommerce -INFO - Opening URL
+2021-06-21 15:38:57,538 - ecommerce -INFO - Logged in  
+2021-06-21 15:38:59,151 - ecommerce -INFO - searching starts
+2021-06-21 15:38:59,714 - ecommerce -INFO - clicked search button
+2021-06-21 15:41:57,792 - ecommerce -INFO - Opening URL
+2021-06-21 15:42:07,551 - ecommerce -INFO - Logged in  
+2021-06-21 15:42:09,463 - ecommerce -INFO - searching starts
+2021-06-21 15:42:10,437 - ecommerce -INFO - clicked search button
+2021-06-21 16:18:45,364 - ecommerce -INFO - Opening URL
+2021-06-21 16:18:57,700 - ecommerce -INFO - Logged in  
+2021-06-21 16:19:01,641 - ecommerce -INFO - searching starts
+2021-06-21 16:19:02,104 - ecommerce -INFO - clicked search button
+2021-06-21 16:22:33,575 - ecommerce -INFO - Opening URL
+2021-06-21 16:22:44,839 - ecommerce -INFO - Logged in  
+2021-06-21 16:22:46,658 - ecommerce -INFO - searching starts
+2021-06-21 16:22:47,190 - ecommerce -INFO - clicked search button
+2021-06-21 16:28:40,022 - ecommerce -INFO - Opening URL
+2021-06-21 16:28:50,950 - ecommerce -INFO - Logged in  
+2021-06-21 16:28:53,397 - ecommerce -INFO - searching starts
+2021-06-21 16:28:53,950 - ecommerce -INFO - clicked search button
+2021-06-21 21:40:40,622 - ecommerce -INFO - Opening URL
+2021-06-21 21:40:51,440 - ecommerce -INFO - Logged in  
+2021-06-21 21:40:54,527 - ecommerce -INFO - searching starts
+2021-06-21 21:40:55,238 - ecommerce -INFO - clicked search button
+2021-06-21 21:41:54,411 - ecommerce -INFO - Opening URL
+2021-06-21 21:42:05,556 - ecommerce -INFO - Logged in  
+2021-06-21 21:42:07,492 - ecommerce -INFO - searching starts
+2021-06-21 21:42:08,711 - ecommerce -INFO - clicked search button
+2021-06-21 21:49:23,439 - ecommerce -INFO - Opening URL
+2021-06-21 21:49:32,833 - ecommerce -INFO - Logged in  
+2021-06-21 21:49:34,433 - ecommerce -INFO - searching starts
+2021-06-21 21:49:35,311 - ecommerce -INFO - clicked search button
+2021-06-21 21:51:09,172 - ecommerce -INFO - Opening URL
+2021-06-21 21:51:18,425 - ecommerce -INFO - Logged in  
+2021-06-21 21:51:20,380 - ecommerce -INFO - searching starts
+2021-06-21 21:51:21,167 - ecommerce -INFO - clicked search button
+2021-06-21 22:01:55,856 - ecommerce -INFO - Opening URL
+2021-06-21 22:02:05,442 - ecommerce -INFO - Logged in  
+2021-06-21 22:02:07,730 - ecommerce -INFO - searching starts
+2021-06-21 22:02:13,388 - ecommerce -INFO - clicked search button
+2021-06-21 22:35:20,735 - ecommerce -INFO - Opening URL
+2021-06-21 22:35:30,007 - ecommerce -INFO - Logged in  
+2021-06-21 22:35:32,530 - ecommerce -INFO - searching starts
+2021-06-21 22:35:42,797 - ecommerce -INFO - clicked search button
+2021-06-21 22:38:05,968 - ecommerce -INFO - Opening URL
+2021-06-21 22:38:15,200 - ecommerce -INFO - Logged in  
+2021-06-21 22:38:16,339 - ecommerce -INFO - searching starts
+2021-06-21 22:38:27,450 - ecommerce -INFO - clicked search button
+2021-06-21 22:39:50,127 - ecommerce -INFO - Opening URL
+2021-06-21 22:39:59,990 - ecommerce -INFO - Logged in  
+2021-06-21 22:40:02,201 - ecommerce -INFO - searching starts
+2021-06-21 22:40:12,637 - ecommerce -INFO - clicked search button
+2021-06-21 22:40:45,431 - ecommerce -INFO - Opening URL
+2021-06-21 22:40:55,079 - ecommerce -INFO - Logged in  
+2021-06-21 22:40:56,517 - ecommerce -INFO - searching starts
+2021-06-21 22:41:07,237 - ecommerce -INFO - clicked search button
+2021-06-21 22:42:36,642 - ecommerce -INFO - Opening URL
+2021-06-21 22:42:48,467 - ecommerce -INFO - Logged in  
+2021-06-21 22:42:51,587 - ecommerce -INFO - searching starts
+2021-06-21 22:43:02,303 - ecommerce -INFO - clicked search button
+2021-06-21 22:43:53,483 - ecommerce -INFO - Opening URL
+2021-06-21 22:44:01,725 - ecommerce -INFO - Logged in  
+2021-06-21 22:44:03,248 - ecommerce -INFO - searching starts
+2021-06-21 22:44:03,982 - ecommerce -INFO - clicked search button
+2021-06-21 22:47:37,365 - ecommerce -INFO - opening URL
+2021-06-21 22:47:41,986 - ecommerce -INFO - Logged IN 
+2021-06-21 22:47:41,987 - ecommerce -INFO - object created
+2021-06-21 22:47:50,015 - ecommerce -INFO - clicked save 
+2021-06-21 22:47:51,913 - ecommerce -INFO - Opening URL
+2021-06-21 22:48:03,291 - ecommerce -INFO - Logged in  
+2021-06-21 22:48:04,931 - ecommerce -INFO - searching starts
+2021-06-21 22:48:05,528 - ecommerce -INFO - clicked search button
+2021-06-21 23:44:46,586 - ecommerce -INFO - Opening URL
+2021-06-21 23:44:57,225 - ecommerce -INFO - Logged in  
+2021-06-21 23:44:59,133 - ecommerce -INFO - searching starts
+2021-06-21 23:45:00,064 - ecommerce -INFO - clicked search button
+2021-06-21 23:46:32,078 - ecommerce -INFO - opening URL
+2021-06-21 23:46:37,044 - ecommerce -INFO - Logged IN 
+2021-06-21 23:46:37,045 - ecommerce -INFO - object created
+2021-06-21 23:46:51,836 - ecommerce -INFO - Opening URL
+2021-06-21 23:47:02,550 - ecommerce -INFO - Logged in  
+2021-06-21 23:47:04,494 - ecommerce -INFO - searching starts
+2021-06-21 23:48:38,364 - ecommerce -INFO - opening URL
+2021-06-21 23:48:42,175 - ecommerce -INFO - Logged IN 
+2021-06-21 23:48:42,176 - ecommerce -INFO - object created
+2021-06-21 23:48:57,938 - ecommerce -INFO - Opening URL
+2021-06-21 23:49:07,915 - ecommerce -INFO - Logged in  
+2021-06-21 23:49:09,470 - ecommerce -INFO - searching starts
+2021-06-21 23:49:10,058 - ecommerce -INFO - clicked search button
+2021-06-21 23:55:24,117 - ecommerce -INFO - opening URL
+2021-06-21 23:55:27,750 - ecommerce -INFO - Logged IN 
+2021-06-21 23:55:27,751 - ecommerce -INFO - object created
+2021-06-21 23:55:38,980 - ecommerce -INFO - Opening URL
+2021-06-21 23:55:50,216 - ecommerce -INFO - Logged in  
+2021-06-21 23:55:51,753 - ecommerce -INFO - searching starts
+2021-06-21 23:55:52,356 - ecommerce -INFO - clicked search button
+2021-06-21 23:59:59,712 - ecommerce -INFO - opening URL
+2021-06-22 00:00:04,330 - ecommerce -INFO - Logged IN 
+2021-06-22 00:00:04,332 - ecommerce -INFO - object created
+2021-06-22 00:00:15,722 - ecommerce -INFO - Opening URL
+2021-06-22 00:00:27,415 - ecommerce -INFO - Logged in  
+2021-06-22 00:00:28,876 - ecommerce -INFO - searching starts
+2021-06-22 00:00:29,449 - ecommerce -INFO - clicked search button
+2021-06-22 00:03:33,399 - ecommerce -INFO - opening URL
+2021-06-22 00:03:39,610 - ecommerce -INFO - Logged IN 
+2021-06-22 00:03:39,611 - ecommerce -INFO - object created
+2021-06-22 08:58:10,695 - ecommerce -INFO - opening URL
+2021-06-22 08:58:21,122 - ecommerce -INFO - Logged IN 
+2021-06-22 08:58:21,124 - ecommerce -INFO - object created
+2021-06-22 09:05:36,806 - ecommerce -INFO - opening URL
+2021-06-22 09:05:43,460 - ecommerce -INFO - Logged IN 
+2021-06-22 09:05:43,461 - ecommerce -INFO - object created
+2021-06-22 09:05:59,794 - ecommerce -INFO - clicked save 
+2021-06-22 09:06:47,753 - ecommerce -INFO - Opening URL
+2021-06-22 09:07:00,904 - ecommerce -INFO - Logged in  
+2021-06-22 09:07:03,502 - ecommerce -INFO - searching starts
+2021-06-22 09:07:03,996 - ecommerce -INFO - clicked search button
+2021-06-22 09:10:50,184 - ecommerce -INFO - Opening URL
+2021-06-22 09:11:00,870 - ecommerce -INFO - Logged in  
+2021-06-22 09:11:02,326 - ecommerce -INFO - searching starts
+2021-06-22 09:11:02,864 - ecommerce -INFO - clicked search button
+2021-06-22 09:24:10,695 - ecommerce -INFO - test case start 
+2021-06-22 09:24:15,845 - ecommerce -INFO - clicked login 
+2021-06-22 09:24:15,921 - ecommerce -INFO - title check 
+2021-06-22 09:24:17,423 - ecommerce -INFO - test case end 
+2021-06-22 09:24:23,630 - ecommerce -INFO - opening URL
+2021-06-22 09:24:28,744 - ecommerce -INFO - Logged IN 
+2021-06-22 09:24:28,746 - ecommerce -INFO - object created
+2021-06-22 09:24:46,740 - ecommerce -INFO - clicked save 
+2021-06-22 09:24:47,312 - ecommerce -INFO - User is added
+2021-06-22 09:24:48,532 - ecommerce -INFO - Opening URL
+2021-06-22 09:25:00,148 - ecommerce -INFO - Logged in  
+2021-06-22 09:25:01,685 - ecommerce -INFO - searching starts
+2021-06-22 09:25:02,227 - ecommerce -INFO - clicked search button
+2021-06-22 09:25:07,312 - ecommerce -INFO - record is present
+2021-06-22 09:25:08,692 - ecommerce -INFO - opening url
+2021-06-22 09:25:14,119 - ecommerce -INFO - maximizing window
+2021-06-22 09:25:19,238 - ecommerce -INFO - Login successful
+2021-06-22 09:25:20,889 - ecommerce -INFO - entered email
+2021-06-22 09:25:21,369 - ecommerce -INFO - searching....
+2021-06-22 09:25:26,468 - ecommerce -INFO - search is finished
+2021-06-22 09:25:36,620 - ecommerce -INFO - deleting user
+2021-06-22 09:25:38,303 - ecommerce -INFO - user is removed
+2021-06-22 09:38:30,280 - ecommerce -INFO - test case start 
+2021-06-22 09:38:36,784 - ecommerce -INFO - clicked login 
+2021-06-22 09:38:36,792 - ecommerce -INFO - title check 
+2021-06-22 09:38:38,255 - ecommerce -INFO - test case end 
+2021-06-22 09:38:45,359 - ecommerce -INFO - opening URL
+2021-06-22 09:38:51,568 - ecommerce -INFO - Logged IN 
+2021-06-22 09:38:51,571 - ecommerce -INFO - object created
+2021-06-22 09:39:07,183 - ecommerce -INFO - Opening URL
+2021-06-22 09:39:19,172 - ecommerce -INFO - Logged in  
+2021-06-22 09:39:21,584 - ecommerce -INFO - searching starts
+2021-06-22 09:39:22,235 - ecommerce -INFO - clicked search button
+2021-06-22 09:39:27,354 - ecommerce -INFO - no record is present
+2021-06-22 09:39:32,306 - ecommerce -INFO - opening url
+2021-06-22 09:39:38,478 - ecommerce -INFO - maximizing window
+2021-06-22 09:39:42,386 - ecommerce -INFO - Login successful
+2021-06-22 09:39:44,227 - ecommerce -INFO - entered email
+2021-06-22 09:39:44,700 - ecommerce -INFO - searching....
+2021-06-22 09:39:49,788 - ecommerce -INFO - expected string not present 
+2021-06-22 22:17:31,514 - ecommerce -INFO - test case start 
+2021-06-22 22:17:51,109 - ecommerce -INFO - clicked login 
+2021-06-22 22:17:51,175 - ecommerce -INFO - title check 
+2021-06-22 22:17:54,300 - ecommerce -INFO - test case end 
+2021-06-22 22:18:03,251 - ecommerce -INFO - opening URL
+2021-06-22 22:18:10,020 - ecommerce -INFO - Logged IN 
+2021-06-22 22:18:10,022 - ecommerce -INFO - object created
+2021-06-22 22:18:33,974 - ecommerce -INFO - Opening URL
+2021-06-22 22:18:42,311 - ecommerce -INFO - opening url
+2021-06-22 22:19:29,103 - ecommerce -INFO - test case start 
+2021-06-22 22:19:34,788 - ecommerce -INFO - clicked login 
+2021-06-22 22:19:34,796 - ecommerce -INFO - title check 
+2021-06-22 22:19:36,297 - ecommerce -INFO - test case end 
+2021-06-22 22:19:44,094 - ecommerce -INFO - opening URL
+2021-06-22 22:19:49,423 - ecommerce -INFO - Logged IN 
+2021-06-22 22:19:49,424 - ecommerce -INFO - object created
+2021-06-22 22:20:09,687 - ecommerce -INFO - Opening URL
+2021-06-22 22:20:19,451 - ecommerce -INFO - Logged in  
+2021-06-22 22:20:25,050 - ecommerce -INFO - opening url
+2021-06-22 22:24:02,557 - ecommerce -INFO - opening URL
+2021-06-22 22:24:09,137 - ecommerce -INFO - Logged IN 
+2021-06-22 22:24:09,138 - ecommerce -INFO - object created
+2021-06-22 22:24:20,408 - ecommerce -INFO - clicked save 
+2021-06-22 22:24:20,966 - ecommerce -INFO - User is added
+2021-06-22 22:24:42,382 - ecommerce -INFO - opening url
+2021-06-22 22:24:47,387 - ecommerce -INFO - maximizing window
+2021-06-22 22:24:52,592 - ecommerce -INFO - Login successful
+2021-06-22 22:24:54,573 - ecommerce -INFO - entered email
+2021-06-22 22:24:54,947 - ecommerce -INFO - searching....
+2021-06-22 22:25:00,023 - ecommerce -INFO - search is finished
+2021-06-22 22:25:09,440 - ecommerce -INFO - deleting user
+2021-06-22 22:25:11,304 - ecommerce -INFO - user is removed
+2021-06-22 22:27:43,946 - ecommerce -INFO - test case start 
+2021-06-22 22:27:49,474 - ecommerce -INFO - clicked login 
+2021-06-22 22:27:49,539 - ecommerce -INFO - title check 
+2021-06-22 22:27:52,654 - ecommerce -INFO - test case end 
+2021-06-22 22:27:59,632 - ecommerce -INFO - opening URL
+2021-06-22 22:28:05,031 - ecommerce -INFO - Logged IN 
+2021-06-22 22:28:05,032 - ecommerce -INFO - object created
+2021-06-22 22:28:17,189 - ecommerce -INFO - clicked save 
+2021-06-22 22:28:17,389 - ecommerce -INFO - issue taking screenshot  
+2021-06-22 22:28:22,890 - ecommerce -INFO - Opening URL
+2021-06-22 22:28:32,537 - ecommerce -INFO - Logged in  
+2021-06-22 22:28:34,076 - ecommerce -INFO - searching starts
+2021-06-22 22:28:34,587 - ecommerce -INFO - clicked search button
+2021-06-22 22:28:39,688 - ecommerce -INFO - no record is present
+2021-06-22 22:28:43,942 - ecommerce -INFO - opening url
+2021-06-22 22:28:49,592 - ecommerce -INFO - maximizing window
+2021-06-22 22:28:54,890 - ecommerce -INFO - Login successful
+2021-06-22 22:28:57,447 - ecommerce -INFO - entered email
+2021-06-22 22:28:57,801 - ecommerce -INFO - searching....
+2021-06-22 22:29:02,872 - ecommerce -INFO - expected string not present 
+2021-06-25 10:28:36,634 - ecommerce -INFO - test case start 
+2021-06-25 10:28:45,989 - ecommerce -INFO - clicked login 
+2021-06-25 10:28:46,040 - ecommerce -INFO - title check 
+2021-06-25 10:28:48,345 - ecommerce -INFO - test case end 
