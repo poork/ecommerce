@@ -34,7 +34,7 @@ public class TC_searchcustomer_001 extends baseClass{
 		logger.info("clicked search button");
 		Thread.sleep(5000);
 		String validate=s.checkrecords();
-		System.out.println("result"+validate);
+		//System.out.println("result"+validate);
 		if(validate.contains("Nagarajan saravanan"))
 		{
 			logger.info("record is present");
